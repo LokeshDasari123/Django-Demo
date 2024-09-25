@@ -19,13 +19,3 @@ Before you begin, make sure you have the following installed:
 
 - [Python 3.x](https://www.python.org/downloads/)
 - [Django](https://www.djangoproject.com/)
-
-## Setup Instructions
-
-1. **Clone the Repository**
-
-   Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/django-basics-demo.git
-   cd django-basics-demo
